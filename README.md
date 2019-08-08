@@ -1,4 +1,4 @@
-# DataUpdateDashboard
+# DataUpdatePermitDashboard
 Files for updating data used by the application Tacoma Permit Dashboard: https://wspdsmap.cityoftacoma.org/website/PDS/PermitDashboard/
 
 Updates json, csv, and AGOL web map for application.
